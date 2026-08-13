@@ -1,5 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/26f53cfa-c5fa-481d-bb24-84e5cdcdcc17" />
-
+<img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/dbb1ce78-a07a-418e-9619-6b06463f051d" />
 
 # Hi, I'm Neil Justin
 
